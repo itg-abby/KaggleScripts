@@ -1,5 +1,7 @@
 # KaggleScripts
 
+All of my Kaggle scripts use the GraphLab module for Python. More about obtaining a free license and installing properly can be found at: https://turi.com/learn/userguide/index.html
+
 The latest real competition that I worked on was: <i>Grupo Bimbo Inventory Demand</i>
 
 Note that the practice competition <i>Titanic Survivors'</i> highest scorers overfit to the dataset, thus achieving accuracies of even 100%. I have tried to avoid overfitting techniques. Also, there are more things to do to improve this script. I am simply supplying the script as-is from the 2nd time I looked at the problem closely, though I know of at least one or two ways to improve it.
